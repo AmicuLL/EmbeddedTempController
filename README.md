@@ -12,7 +12,7 @@ This project represents a digital thermostat implemented on the 8051 microcontro
 .\
 ├── keil/ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;# Keil uVision source code and project files\
 │ ├── codc.c &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# Project written in C code\
-│ ├── codasm.a51 &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;# Almost same project written in ASM code\
+│ ├── codasm.a51 &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;# Project written in ASM code (This one is recommended)\
 │ ├── TempController.uvproj &emsp;# Keil project files\
 │ └── Objects/, Listings/... &emsp;&emsp;&nbsp;# Automatic created after launching Keil\
 └── TempController.pdsprj &emsp;&nbsp;&nbsp;&nbsp;# Proteus simulation
