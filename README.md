@@ -50,5 +50,5 @@ Project made for university discipline / educational hobby, for demonstration pu
 
 ---
 ## 📜License
-Copyright (c) 2025 AmicuLL
+Copyright (c) 2025 AmicuLL\
 This project is provided "as is" for educational purposes. You are free to use, modify, and distribute the code as long as you credit the source.
