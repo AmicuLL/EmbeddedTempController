@@ -42,8 +42,7 @@ For testing:
 2. Make sure you have the HEX generated from Keil (`hexfile.hex`) loaded into the microcontroller.
 3. Run the simulation to observe the behavior of the LCD, ADC and relay.
 ## 📸Screenshots
-![Proteus Screenshot](<img width="2816" height="1692" alt="proteus project" src="https://github.com/user-attachments/assets/dec81e6f-746a-4980-90ea-dbe84f07edd3" />
-)
+![Proteus Screenshot]("https://github.com/user-attachments/assets/dec81e6f-746a-4980-90ea-dbe84f07edd3")
 ## 🧠 Author
 Project made for university discipline / educational hobby, for demonstration purposes.
 
